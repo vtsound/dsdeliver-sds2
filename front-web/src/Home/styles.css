@@ -85,4 +85,7 @@
   .home-image svg {
     width: 80%;
   }
+  .main-image {
+    width: 100%;
+  }
 }
